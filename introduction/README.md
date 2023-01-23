@@ -20,7 +20,7 @@
 
 目前 OIers-Convolution 共三个团。其中本团为主团。
 
-1. [OIers-Convolution CCCP（简称 OICon）]()
+1. [OIers-Convolution CCCP（简称 OICon）](https://www.luogu.com.cn/team/52724)
 
 学术团，以交流讨论为主。加入条件见团 #2。
 
