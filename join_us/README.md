@@ -2,7 +2,7 @@
 
 目前六年级至初二总共三届的 OIer 均可以申请加入。
 
-请私信 [Daniel_lele](https://www.luogu.com.cn/users/116664) 咨询。申请之前请先做到 1 条件，2 条件可以增加概率：
+请私信 [Daniel_lele](https://www.luogu.com.cn/user/116664) 咨询。申请之前请先做到 1 条件，2 条件可以增加概率：
 
 1. CSP-S2022 240+ / NOIP2022 160+ （任选其一）
 2. CF Rating 2000+ / AT Rating 1800+ （任选其一）
